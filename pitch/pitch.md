@@ -1,9 +1,3 @@
-<style>
-.small-code pre code {
-  font-size: 1em;
-}
-</style>
-
 Iris Identifier Pitch
 ========================================================
 author: Eric Oden
