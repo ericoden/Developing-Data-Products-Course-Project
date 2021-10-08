@@ -1,5 +1,4 @@
-Instructions:
-
+Instructions for project (from Coursera):
 
 # Developing-Data-Products-Course-Project
 
