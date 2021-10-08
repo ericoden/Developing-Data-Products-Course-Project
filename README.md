@@ -1,4 +1,8 @@
-Instructions for project (from Coursera):
+The pitch can be viewed here: https://rpubs.com/drsnowbunny1234/803778
+The app can be used here: https://ericoden.shinyapps.io/iris_identifier/
+
+
+## Instructions for project (from Coursera):
 
 # Developing-Data-Products-Course-Project
 
