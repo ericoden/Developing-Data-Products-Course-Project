@@ -2,6 +2,6 @@ Code for the course project for the Developing Data Products course, part of the
 
 I chose to develop a multinomial logistic regression classifier for the famous [Iris](https://archive.ics.uci.edu/ml/datasets/iris) data set. 
 
-The [app](https://ericoden.shinyapps.io/iris_identifier/)
+* The [app](https://ericoden.shinyapps.io/iris_identifier/)
 
-The [pitch](https://rpubs.com/drsnowbunny1234/803778)
+* The [pitch](https://rpubs.com/drsnowbunny1234/803778)
